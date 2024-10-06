@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\bin\Debug\net6.0\Task3 - 07.10.2024.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\bin\Debug\net6.0\Task3 - 07.10.2024.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\bin\Debug\net6.0\Task3 - 07.10.2024.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\bin\Debug\net6.0\Task3 - 07.10.2024.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\bin\Debug\net6.0\Task3 - 07.10.2024.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\refint\Task3 - 07.10.2024.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\Task3 - 07.10.2024.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task3 - 07.10.2024\Task3 - 07.10.2024\obj\Debug\net6.0\ref\Task3 - 07.10.2024.dll
